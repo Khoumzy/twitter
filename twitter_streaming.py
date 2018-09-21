@@ -18,10 +18,10 @@ class Listener(StreamListener):
 if __name__ == '__main__':
 
 	# User credentials
-    access_token = "1038381241836417024-yW1e6RLMNPRGfA7h023ZcnmqxxX8ny"
-    access_token_secret = "qunZX9c8wQCc2Rc7SqOqLfc5NT6dn5VztlshQWFOazQRD"
-    consumer_key = "athGwMUF53WAkPGlxCQKr6zK2"
-    consumer_secret = "NyKW22UcGA7YhD0UQGLqIJj886dWj0jCyszUS36060JduOxPHg"
+    access_token = "your access token"
+    access_token_secret = "your access token secret"
+    consumer_key = "your consumer key"
+    consumer_secret = "your consumer secret"
 
     #Twitter authetification and Connection to Twitter Streaming API
     listener = Listener()
