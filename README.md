@@ -19,7 +19,7 @@ You have to run this file in your terminal.
 
 $ python twitter_streaming.py > dataset/datas.txt
 
-In my part i run the code 10h et i have collected 220 Mb.
+In my part i run the code 10h et i have collected 280 Mb.
 
 <h3>3. Understanding the data</h3>
 
