@@ -24,3 +24,6 @@ In my part i run the code 10h et i have collected 280 Mb.
 <h3>3. Understanding the data</h3>
 
 You have to explore my notebook <a href="https://github.com/Khoumzy/twitter/blob/master/text_mining.ipynb">text_mining.ipynb</a> . The code is well documented.
+
+
+NB: I didn't put in this repository my dataset
