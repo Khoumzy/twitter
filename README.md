@@ -12,7 +12,7 @@ With the advent of social networks, sources and data contents have continued to 
 You can follow this link <a href="http://docs.inboundnow.com/guide/create-twitter-application/" >How to create a Twitter application</a>
 
 
-<h3>2. Collecting data </a>
+<h3>2. Collecting data </h3>
 
 The code is in <a href="https://github.com/Khoumzy/twitter/blob/master/twitter_streaming.py">twitter_streaming.py</a>.
 You have to run this file in your terminal.
